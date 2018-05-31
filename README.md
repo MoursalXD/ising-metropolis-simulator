@@ -1,4 +1,4 @@
 # ising-metropolis-simulator
 Iterative simulation of spin lattice using Metropolis algorithm
 
-!(ising.gif)
+<img src="ising.gif">
